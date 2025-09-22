@@ -1,0 +1,5 @@
+com\microservice\notificationContentBuilding\Controller\ContentBuildingController.class
+com\microservice\notificationContentBuilding\Service\MailContentBuildingService.class
+com\microservice\notificationContentBuilding\Service\ContentBuildingService.class
+com\microservice\notificationContentBuilding\NotificationContentBuildingApplication.class
+com\microservice\notificationContentBuilding\Service\PushContentBuildingService.class
