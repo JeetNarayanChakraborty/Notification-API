@@ -1,0 +1,4 @@
+com\dto\input_dto\UserInputDTO\NotificationRequest.class
+com\dto\input_dto\UserInputDTO\UserPreferences.class
+com\dto\input_dto\UserInputDTO\UserInfo.class
+com\dto\input_dto\UserInputDTO\NotificationBody.class
